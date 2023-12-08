@@ -1,16 +1,19 @@
-## Organization landing page - working version 👋
+## Welcome to the Github page for the Division of Biostatistics at USC!
+
 
 ![temp](https://github.com/USCbiostats/.github/assets/7833774/cda84ffd-eb6d-42a6-abf6-556136c7e131)
 
 
-# Welcome to the Github page for the Division of Biostatistics at USC!
-
-You can find the Division's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
+You can find the Division of Biostatistics's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
 
 
 ![termp2](https://github.com/USCbiostats/.github/assets/7833774/f588071e-7488-4aea-9e0a-7a30850b2cd5)
 
 Many members of the division also participate in a Program Project, IMAGE, details of which can be found [here](https://image.usc.edu/)
+
+This github organization is used to warehouse and develop software we are working on, as well as other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad...
+
+
 
 
 <!--
