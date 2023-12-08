@@ -1,5 +1,8 @@
 ## Organization landing page - working version 👋
 
+![temp](https://github.com/USCbiostats/.github/assets/7833774/cda84ffd-eb6d-42a6-abf6-556136c7e131)
+
+
 # Welcome to the Github page for the Division of Biostatistics at USC!
 
 You can find the Division's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
