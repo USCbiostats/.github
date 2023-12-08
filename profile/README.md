@@ -4,7 +4,7 @@
 
 **Here are some ideas to get you started:**
 
-!Welcome to the Github page for the Division of Biostatistics at USC!
+# Welcome to the Github page for the Division of Biostatistics at USC!
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
