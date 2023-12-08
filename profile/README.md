@@ -6,13 +6,20 @@
 
 You can find the Division of Biostatistics's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
 
+</br>
+</br>
+
 
 ![termp2](https://github.com/USCbiostats/.github/assets/7833774/f588071e-7488-4aea-9e0a-7a30850b2cd5)
 
 Many members of the division also participate in a Program Project, IMAGE, details of which can be found [here](https://image.usc.edu/)
 
+</br>
+</br>
+
 This github organization is used to warehouse and develop software we are working on, as well as other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad...
 
+[Seminar Flyer HS20.pdf](https://github.com/USCbiostats/.github/files/13618930/Seminar.Flyer.HS20.pdf)
 
 
 
