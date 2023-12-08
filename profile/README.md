@@ -31,6 +31,17 @@ In addition, we also use this organization to warehouse other information, such 
 
 <img src="(https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)" width="200">
 
+</br>
+</br>
+</br>
+</br>
+
+One of our educational initiatives is LA's Biostatistics Education Summer Training program at USC (LA's BEST@USC).
+You can access the official class website [here](https://USCBiostats.github.io/LAsBEST).</br>
+More details can be found [here.](https://github.com/USCbiostats/LAsBEST/tree/main)
+
+
+
 [Many more details to be added.....]
 
 
