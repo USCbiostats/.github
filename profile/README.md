@@ -1,12 +1,14 @@
 ## Organization landing page - working version 👋
 
+# Welcome to the Github page for the Division of Biostatistics at USC!
+
+You can find the Division's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
+
+
 <!--
 
 **Here are some ideas to get you started:**
 
-# Welcome to the Github page for the Division of Biostatistics at USC!
-\
-You can find the Division's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
