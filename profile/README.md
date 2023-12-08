@@ -18,8 +18,12 @@ Many members of the division also participate in a Program Project, "Integrative
 </br>
 
 This github organization is used to warehouse and develop software we are working on. You can find that software by clicking on the "Repositories" tab above.
+Examples include: 
 
-[Add a list of more popular software...]
+[cit:](https://github.com/USCbiostats/cit) Causal Inference Testing;
+[fdrci:](https://github.com/USCbiostats/fdrci)	Permutation-Based FDR Point and Confidence Interval Estimation;
+[LUCIDus:](https://github.com/USCbiostats/LUCIDus)	Latent and Unknown Cluster Analysis using Integrated Data;
+[xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge. 
 
 In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad...
 
