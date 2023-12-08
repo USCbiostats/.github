@@ -25,7 +25,7 @@ Examples include:
 [LUCIDus:](https://github.com/USCbiostats/LUCIDus)	Latent and Unknown Cluster Analysis using Integrated Data; </br>
 [xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge. </br>
 
-In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad...
+In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad. You can find these [here;](https://github.com/USCbiostats/software-dev/tree/master/happy_scientist)
 
 ![Seminar Flyer HS20](https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)
 
