@@ -37,8 +37,9 @@ In addition, we also use this organization to warehouse other information, such 
 </br>
 
 One of our educational initiatives is LA's Biostatistics Education Summer Training program at USC (LA's BEST@USC).
+An overview of the program can be found [here.](https://pphs.usc.edu/paving-a-path-to-careers-in-biostatistics-and-data-science-summer-program-trains-students-without-the-cost/?MassEmailID=367812488&email_id=77&emailaddress=All-ksom-faculty-L%40usc.edu&submission_date=1%2f11%2f2018+2%3a34%3a20+PM&MemberID=5CE0C146D86A42FA8168F9CD267B5C92&confirmed=1&Modified=)
 You can access the official class website [here](https://USCBiostats.github.io/LAsBEST).</br>
-More details can be found [here.](https://github.com/USCbiostats/LAsBEST/tree/main)
+
 
 
 
