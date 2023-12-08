@@ -19,7 +19,8 @@ Many members of the division also participate in a Program Project, IMAGE, detai
 
 This github organization is used to warehouse and develop software we are working on, as well as other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad...
 
-[Seminar Flyer HS20.pdf](https://github.com/USCbiostats/.github/files/13618930/Seminar.Flyer.HS20.pdf)
+![Seminar Flyer HS20](https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)
+
 
 
 
