@@ -25,6 +25,8 @@ In addition, we also use this organization to warehouse other information, such 
 
 ![Seminar Flyer HS20](https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)
 
+<img src="[Assets/icon.png](https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)" width="200">
+
 [Many more details to be added.....]
 
 
