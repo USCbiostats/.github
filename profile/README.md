@@ -8,6 +8,11 @@
 You can find the Division's webpage [here](https://pphs.usc.edu/divisions/biostatistics/)
 
 
+![termp2](https://github.com/USCbiostats/.github/assets/7833774/f588071e-7488-4aea-9e0a-7a30850b2cd5)
+
+Many members of the division also participate in a Program Project, IMAGE, details of which can be found [here](https://image.usc.edu/)
+
+
 <!--
 
 **Here are some ideas to get you started:**
