@@ -27,7 +27,8 @@ Examples include:
 
 In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad. You can find these [here;](https://github.com/USCbiostats/software-dev/tree/master/happy_scientist)
 
-![Seminar Flyer HS20](https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)
+![HScollage_edit](https://github.com/USCbiostats/.github/assets/7833774/59c09a46-2e2a-43a9-99c3-fbd28645d62c)
+
 
 <img src="(https://github.com/USCbiostats/.github/assets/7833774/9009027c-f9c8-4e24-b63c-ad2e82034c92)" width="200">
 
