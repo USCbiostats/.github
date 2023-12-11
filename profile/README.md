@@ -23,9 +23,10 @@ Examples include:
 [cit:](https://github.com/USCbiostats/cit) Causal Inference Testing; </br>
 [fdrci:](https://github.com/USCbiostats/fdrci)	Permutation-Based FDR Point and Confidence Interval Estimation; </br>
 [LUCIDus:](https://github.com/USCbiostats/LUCIDus)	Latent and Unknown Cluster Analysis using Integrated Data; </br>
-[xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge. </br>
+[xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge; </br>
+[AnnoQ](https://github.com/USCbiostats/AnnoQ) An integrated and interactive platform for large-scale genetic variant annotation. </br>
 
-In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad. You can find these [here;](https://github.com/USCbiostats/software-dev/tree/master/happy_scientist)
+In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad. You can find these [here.](https://github.com/USCbiostats/software-dev/tree/master/happy_scientist)
 
 ![HScollage_edit](https://github.com/USCbiostats/.github/assets/7833774/59c09a46-2e2a-43a9-99c3-fbd28645d62c)
 
@@ -37,15 +38,11 @@ In addition, we also use this organization to warehouse other information, such 
 </br>
 </br>
 
-One of our educational initiatives is LA's Biostatistics Education Summer Training program at USC (LA's BEST@USC).
+![LA's BeST 2024](https://github.com/USCbiostats/.github/assets/7833774/ef12fd74-b71a-4e9b-ab6c-0c64b3244786)
+
+One of our educational initiatives is LA's Biostatistics Education Summer Training program at USC (LA's BEST@USC). In this annual summer program, students receive formal training in biostatistics and data science and meet experts in epidemiology, molecular biology, cancer, and clinical research with opportunities to work on real data sets.
 An overview of the program can be found [here.](https://pphs.usc.edu/paving-a-path-to-careers-in-biostatistics-and-data-science-summer-program-trains-students-without-the-cost/?MassEmailID=367812488&email_id=77&emailaddress=All-ksom-faculty-L%40usc.edu&submission_date=1%2f11%2f2018+2%3a34%3a20+PM&MemberID=5CE0C146D86A42FA8168F9CD267B5C92&confirmed=1&Modified=)
 You can access the official class website [here](https://USCBiostats.github.io/LAsBEST).</br>
-
-
-
-
-[Many more details to be added.....]
-
 
 
 
