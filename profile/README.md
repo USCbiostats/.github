@@ -12,7 +12,7 @@ You can find the Division of Biostatistics's webpage [here.](https://pphs.usc.ed
 
 ![termp2](https://github.com/USCbiostats/.github/assets/7833774/f588071e-7488-4aea-9e0a-7a30850b2cd5)
 
-Many members of the division also participate in a Program Project, "Integrative Methods of Analysis for Genetic Epidemiology" (IMAGE), details of which can be found [here.]( https://pphs.usc.edu/center/center-for-statistical-genomics/)
+Many members of the division also participate in a Program Project, "Integrative Methods of Analysis for Genetic Epidemiology" (IMAGE), as part of our Center for Statistical Genomics. More details of this can be found [here.]( https://pphs.usc.edu/center/center-for-statistical-genomics/)
 
 </br>
 </br>
