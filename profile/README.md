@@ -24,7 +24,7 @@ Examples include:
 [fdrci:](https://github.com/USCbiostats/fdrci)	Permutation-Based FDR Point and Confidence Interval Estimation; </br>
 [LUCIDus:](https://github.com/USCbiostats/LUCIDus)	Latent and Unknown Cluster Analysis using Integrated Data; </br>
 [xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge; </br>
-[AnnoQ](https://github.com/USCbiostats/AnnoQ) An integrated and interactive platform for large-scale genetic variant annotation. </br>
+[AnnoQ:](https://github.com/USCbiostats/AnnoQ) An integrated and interactive platform for large-scale genetic variant annotation. </br>
 
 In addition, we also use this organization to warehouse other information, such as guidelines for software development and materials from previous seminars, etc. For example, we run a seminar series known as the "Happy Scientist", to ensure that we are happy, not sad. You can find these [here.](https://github.com/USCbiostats/software-dev/tree/master/happy_scientist)
 
@@ -44,7 +44,11 @@ One of our educational initiatives is LA's Biostatistics Education Summer Traini
 An overview of the program can be found [here.](https://pphs.usc.edu/paving-a-path-to-careers-in-biostatistics-and-data-science-summer-program-trains-students-without-the-cost/?MassEmailID=367812488&email_id=77&emailaddress=All-ksom-faculty-L%40usc.edu&submission_date=1%2f11%2f2018+2%3a34%3a20+PM&MemberID=5CE0C146D86A42FA8168F9CD267B5C92&confirmed=1&Modified=)
 You can access the official class website [here](https://USCBiostats.github.io/LAsBEST).</br>
 
+</br></br>
 
+For general guidelines on the writing of Software and packages, particularly in R, you should go to our Software Development page.
+There you will find guidelines on "Coding Standards", How to use the Biostats "Bioghost" server, and a variety of topics in "High-Performance Computing".</br>
+The software development landing page is [here.](https://github.com/USCbiostats/software-dev)
 
 <!--
 
