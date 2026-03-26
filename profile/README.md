@@ -23,7 +23,7 @@ Examples include:
 
 [cit:](https://github.com/USCbiostats/cit) Causal Inference Testing; </br>
 [fdrci:](https://github.com/USCbiostats/fdrci)	Permutation-Based FDR Point and Confidence Interval Estimation; </br>
-[LUCIDus:](https://github.com/USCbiostats/LUCIDus)	Latent and Unknown Cluster Analysis using Integrated Data; </br>
+[LUCIDus:](https://github.com/USCbiostats/LUCIDus3)	Latent and Unknown Cluster Analysis using Integrated Data; </br>
 [xtune:](https://github.com/USCbiostats/xtune) Lasso and Ridge Regression with differential penalization based on prior knowledge; </br>
 [AnnoQ:](https://github.com/USCbiostats/AnnoQ) An integrated and interactive platform for large-scale genetic variant annotation. </br>
 
